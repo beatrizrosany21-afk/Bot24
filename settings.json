@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bzmind.aternos.me
-",
+    "ip": "bzmind.aternos.me",
     "port": 55483,
     "version": "1.21.1"
   },
